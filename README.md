@@ -7,18 +7,38 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anujharsaini@gmail.com?subject=Hello%20Anuj,%20From%20Github)
 
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anuj-saini-7230a0257/" target="blank"><img align="center" src="social-icon-url" alt="" height="30" width="40"/></a>
+
+- 🔭 I’m currently working at [Passion Gaming](https://www.linkedin.com/company/p33r-finance/)
+- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Data Analytics](https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/)
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I love physical exercises like cycling, swimming, strength training. Also, focusing on my health.
+
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Python, SQL, Langchain, Django, FastAPI, Scikit-Learn, AWS](https://skillicons.dev/icons?i=python,sql,langchain,django,fastapi,scikitlearn,aws)](https://skillicons.dev)
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujhsrsaini&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujhsrsaini&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="skill-url" target="_blank"><img src="skill-icon-url" alt="skill-name" width="40" height="40"/> </a>
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anujhsrsaini)](https://github.com/ryo-ma/github-profile-trophy)
+## 🎮 When I'm AFK:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujhsrsaini)](https://git.io/streak-stats)
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>

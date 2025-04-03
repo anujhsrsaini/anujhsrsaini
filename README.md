@@ -1,16 +1,14 @@
 ## Hi there 👋
+[![MasterHead](your-image-link)](https://github.com/anujhsrsaini)
 
-<!--
-**anujhsrsaini/anujhsrsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anuj-saini-7230a0257/" target="blank"><img align="center" src="social-icon-url" alt="" height="30" width="40"/></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="skill-url" target="_blank">Python<img src="skill-icon-url" alt="skill-name" width="40" height="40"/> </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=anujhsrsaini)](https://github.com/ryo-ma/github-profile-trophy)

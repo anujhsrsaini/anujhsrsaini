@@ -22,7 +22,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Python, SQL, Django, FastAPI, Scikit-Learn, AWS](https://skillicons.dev/icons?i=python,mysql,langchain,django,fastapi,scikitlearn,aws)](https://skillicons.dev)
+[![Python, SQL, Django, FastAPI, Scikit-Learn, AWS](https://skillicons.dev/icons?i=python,mysql,django,fastapi,scikitlearn,aws)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:

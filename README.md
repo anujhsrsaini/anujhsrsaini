@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Passion Gaming](https://www.linkedin.com/company/p33r-finance/)
+- 🔭 I’m currently working at [Ultrahuman](https://www.linkedin.com/company/ultrahumanhq/)
 - 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Data Analytics](https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/)
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I love physical exercises like cycling, swimming, strength training. Also, focusing on my health.
